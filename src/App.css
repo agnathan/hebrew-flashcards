@@ -1,0 +1,18 @@
+
+body {
+  background-image: url('/images/background.jpg');
+  background-size: cover;
+}
+.App {
+  background-image: url('/images/background.jpg');
+  background-size: cover;
+
+}
+
+.cardRow{
+    padding: 5px;
+}
+
+.btnRow{
+    padding: 5px;
+}

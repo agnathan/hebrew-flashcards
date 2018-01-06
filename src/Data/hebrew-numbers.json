@@ -1,0 +1,136 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "english": "1",
+            "hebrew": "א",
+            "comment": ""
+        },
+        {
+            "id": 2,
+            "english": "2",
+            "hebrew": "ב‬",
+            "comment": ""
+        },
+        {
+            "id": 3,
+            "english": "3",
+            "hebrew": "ג‬",
+            "comment": ""
+        },
+        {
+            "id": 4,
+            "english": "4",
+            "hebrew": "ד‬",
+            "comment": ""
+        },
+        {
+            "id": 5,
+            "english": "5",
+            "hebrew": "ה‬",
+            "comment": ""
+        },
+        {
+            "id": 6,
+            "english": "6",
+            "hebrew": "ו‬",
+            "comment": ""
+        },
+        {
+            "id": 7,
+            "english": "7",
+            "hebrew": "ז‬",
+            "comment": ""
+        },
+        {
+            "id": 8,
+            "english": "8",
+            "hebrew": "ח‬",
+            "comment": ""
+        },
+        {
+            "id": 9,
+            "english": "9",
+            "hebrew": "ט",
+            "comment": ""
+        },
+        {
+            "id": 10,
+            "english": "10",
+            "hebrew": "י",
+            "comment": ""
+        },
+        {
+            "id": 11,
+            "english": "20",
+            "hebrew": "כך‬",
+            "comment": ""
+        },
+        {
+            "id": 12,
+            "english": "30",
+            "hebrew": "ל‬",
+            "comment": ""
+        },
+        {
+            "id": 13,
+            "english": "40",
+            "hebrew": "מ‬ם",
+            "comment": ""
+        },
+        {
+            "id": 14,
+            "english": "50",
+            "hebrew": "נ‬ן‬",
+            "comment": ""
+        },
+        {
+            "id": 15,
+            "english": "60",
+            "hebrew": "ס",
+            "comment": ""
+        },
+        {
+            "id": 16,
+            "english": "70",
+            "hebrew": "ע‬",
+            "comment": ""
+        },
+        {
+            "id": 17,
+            "english": "80",
+            "hebrew": "פ‬ף",
+            "comment": ""
+        },
+        {
+            "id": 18,
+            "english": "90",
+            "hebrew": "צ‬ץ‬",
+            "comment": ""
+        },
+        {
+            "id": 19,
+            "english": "100",
+            "hebrew": "ק‬",
+            "comment": ""
+        },
+        {
+            "id": 20,
+            "english": "200",
+            "hebrew": "ר‬",
+            "comment": ""
+        },
+        {
+            "id": 21,
+            "english": "300",
+            "hebrew": "ש‬",
+            "comment": ""
+        },
+        {
+            "id": 22,
+            "english": "400",
+            "hebrew": "ת‬",
+            "comment": ""
+        }
+    ]
+}

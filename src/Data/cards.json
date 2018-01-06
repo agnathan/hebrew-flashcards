@@ -1,0 +1,289 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "english": "Alef",
+            "hebrew": "א",
+            "comment": ""
+        },
+        {
+            "id": 2,
+            "english": "Bet",
+            "hebrew": "ב‬",
+            "comment": ""
+        },
+        {
+            "id": 3,
+            "english": "Gimel",
+            "hebrew": "ג‬",
+            "comment": ""
+        },
+        {
+            "id": 4,
+            "english": "Dalet",
+            "hebrew": "ד‬",
+            "comment": ""
+        },
+        {
+            "id": 5,
+            "english": "He",
+            "hebrew": "ה‬",
+            "comment": ""
+        },
+        {
+            "id": 6,
+            "english": "Vav",
+            "hebrew": "ו‬",
+            "comment": ""
+        },
+        {
+            "id": 7,
+            "english": "Zayin",
+            "hebrew": "ז‬",
+            "comment": ""
+        },
+        {
+            "id": 8,
+            "english": "Het",
+            "hebrew": "ח‬",
+            "comment": ""
+        },
+        {
+            "id": 9,
+            "english": "Tet",
+            "hebrew": "ט",
+            "comment": ""
+        },
+        {
+            "id": 10,
+            "english": "Yod",
+            "hebrew": "י",
+            "comment": ""
+        },
+        {
+            "id": 11,
+            "english": "Kaf",
+            "hebrew": "כך‬",
+            "comment": ""
+        },
+        {
+            "id": 12,
+            "english": "Lamed",
+            "hebrew": "ל‬",
+            "comment": ""
+        },
+        {
+            "id": 13,
+            "english": "Mem",
+            "hebrew": "מ‬ם",
+            "comment": ""
+        },
+        {
+            "id": 14,
+            "english": "Nun",
+            "hebrew": "נ‬ן‬",
+            "comment": ""
+        },
+        {
+            "id": 15,
+            "english": "Samekh",
+            "hebrew": "ס",
+            "comment": ""
+        },
+        {
+            "id": 16,
+            "english": "Ayin",
+            "hebrew": "ע‬",
+            "comment": ""
+        },
+        {
+            "id": 17,
+            "english": "Pe",
+            "hebrew": "פ‬ף",
+            "comment": ""
+        },
+        {
+            "id": 18,
+            "english": "Tsadi",
+            "hebrew": "צ‬ץ‬",
+            "comment": ""
+        },
+        {
+            "id": 19,
+            "english": "Qof",
+            "hebrew": "ק‬",
+            "comment": ""
+        },
+        {
+            "id": 20,
+            "english": "Resh‬",
+            "hebrew": "ר‬",
+            "comment": ""
+        },
+        {
+            "id": 21,
+            "english": "Sin",
+            "hebrew": "ש‬",
+            "comment": ""
+        },
+        {
+            "id": 22,
+            "english": "Tav",
+            "hebrew": "ת‬",
+            "comment": ""
+        },
+
+
+
+
+
+
+
+
+
+        {
+            "id": 1,
+            "english": "Alpha",
+            "hebrew": "Αα",
+            "comment": ""
+        },
+        {
+            "id": 2,
+            "english": "Beta",
+            "hebrew": "Ββ",
+            "comment": ""
+        },
+        {
+            "id": 3,
+            "english": "Gimel",
+            "hebrew": "Γγ‬",
+            "comment": ""
+        },
+        {
+            "id": 4,
+            "english": "Delta",
+            "hebrew": "Δδ",
+            "comment": ""
+        },
+        {
+            "id": 5,
+            "english": "Epsilon",
+            "hebrew": "Εε",
+            "comment": ""
+        },
+        {
+            "id": 6,
+            "english": "Zeta",
+            "hebrew": "Ζζ",
+            "comment": ""
+        },
+        {
+            "id": 7,
+            "english": "Eta",
+            "hebrew": "Ηη‬",
+            "comment": ""
+        },
+        {
+            "id": 8,
+            "english": "Theta",
+            "hebrew": "Θθ",
+            "comment": ""
+        },
+        {
+            "id": 9,
+            "english": "Iota",
+            "hebrew": "Ιι",
+            "comment": ""
+        },
+        {
+            "id": 10,
+            "english": "Kappa",
+            "hebrew": "Κκ",
+            "comment": ""
+        },
+        {
+            "id": 11,
+            "english": "Lambda",
+            "hebrew": "Λλ",
+            "comment": ""
+        },
+        {
+            "id": 12,
+            "english": "Mu",
+            "hebrew": "Μμ‬",
+            "comment": ""
+        },
+        {
+            "id": 13,
+            "english": "Nu",
+            "hebrew": "Νν",
+            "comment": ""
+        },
+        {
+            "id": 14,
+            "english": "Xi",
+            "hebrew": "Ξξ",
+            "comment": ""
+        },
+        {
+            "id": 15,
+            "english": "Omicron",
+            "hebrew": "Οο",
+            "comment": ""
+        },
+        {
+            "id": 16,
+            "english": "Pi",
+            "hebrew": "Ππ",
+            "comment": ""
+        },
+        {
+            "id": 17,
+            "english": "Rho",
+            "hebrew": "Ρρ",
+            "comment": ""
+        },
+        {
+            "id": 18,
+            "english": "Signa",
+            "hebrew": "Σσ",
+            "comment": ""
+        },
+        {
+            "id": 19,
+            "english": "Tau",
+            "hebrew": "Ττ",
+            "comment": ""
+        },
+        {
+            "id": 20,
+            "english": "Upsilon",
+            "hebrew": "Υυ",
+            "comment": ""
+        },
+        {
+            "id": 21,
+            "english": "Chi",
+            "hebrew": "Χχ",
+            "comment": ""
+        },
+        {
+            "id": 22,
+            "english": "Sigma",
+            "hebrew": "Σσ",
+            "comment": ""
+        },
+        {
+            "id": 23,
+            "english": "Psi",
+            "hebrew": "Ψψ",
+            "comment": ""
+        },
+        {
+            "id": 24,
+            "english": "Omega",
+            "hebrew": "Ωω",
+            "comment": ""
+        }
+    ]
+}

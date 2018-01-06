@@ -1,0 +1,16 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "english": "18",
+            "hebrew": "9 x 1",
+            "comment": ""
+        },
+        {
+            "id": 2,
+            "english": "18",
+            "hebrew": "9 x 2",
+            "comment": ""
+        }
+    ]
+}
